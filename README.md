@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Brian
 
-<!--
-**brian-pond/brian-pond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal GitHub repository.  I also maintain https://github.com/Datahenge for certain work-related projects.
 
-Here are some ideas to get you started:
+## My Work Life
+I specialize in Enterprise Resource Planning (ERP).  If you're unfamiliar, then it's software like QuickBooks, NetSuite, etc.\\
+I do a lot of backend work using tools like:
+* Python
+* Rust
+* SQL (PostgreSQL being my favorite)
+* Linux 🐧
+* and of course, AI. 🤖
+  
+## My Non-Work Life
+See also: My Work Life
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love my cats 🐈🐈‍⬛ and fuss over them constantly.
