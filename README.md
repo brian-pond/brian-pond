@@ -2,6 +2,8 @@
 
 This is my personal GitHub repository.  I also maintain https://github.com/Datahenge for certain work-related projects.
 
+Personal website here: https://brianpond.com
+
 ## My Work Life
 I specialize in Enterprise Resource Planning (ERP).  If you're unfamiliar, then it's software like QuickBooks, NetSuite, etc.
 
