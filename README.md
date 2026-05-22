@@ -1,7 +1,7 @@
 ## Hi, I'm Brian!
 
-This is my personal GitHub repository.\\
-I also maintain https://github.com/Datahenge for certain work-related projects.\\
+This is my personal GitHub repository.\
+I also maintain https://github.com/Datahenge for certain work-related projects.\
 My personal website: https://brianpond.com
 
 ## My Work Life
